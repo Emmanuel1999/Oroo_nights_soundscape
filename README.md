@@ -1,2 +1,6 @@
 # Oroo_nights_soundscape
 A layered, immersive nocturnal soundscape exploring tension, ritual, and ancestral presence. Designed for interactive web playback with Tone.js, this project models the progression of a sacred night through five audio layers — from exterior ambience to intimate interior spaces, natural warnings, the main procession, and optional narration. 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_6nkm7b6nkm7b6nkm" src="https://github.com/user-attachments/assets/6f491a11-d516-4323-9231-d6e28175260c" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_khlj64khlj64khlj" src="https://github.com/user-attachments/assets/9237811c-84b9-4040-90eb-9cfde528aebd" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_mxsqn7mxsqn7mxsq" src="https://github.com/user-attachments/assets/d3d4af59-43f6-4896-874d-d1e6da5e0eb2" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_y2ereqy2ereqy2er" src="https://github.com/user-attachments/assets/f8d9c0f3-467e-414f-9011-2445b4ad8c20" />
