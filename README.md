@@ -1,4 +1,4 @@
-# Oroo_nights_soundscape
+# Oroo Nights Soundscape
 # Oroo Nights: Layered Nocturnal Soundscape
 
 **Short Description:**  
@@ -70,21 +70,6 @@ Oroo Nights is a **5-minute soundscape experience** built around the progression
 
 ---
 
-## 🗃 Audio Assets
-
-All audio files are included in `/audio_assets/`:
-
-| Layer | File Example | Notes |
-|-------|-------------|-------|
-| L1    | layer1_crickets_base.wav | Continuous 5-min loop with fades |
-| L2    | layer2_room_ambience.wav | Tiled room with fan, breathing, bed creaks |
-| L3    | layer3_dog_bark.wav | Lone dog, night owl, distant vehicle |
-| L4    | layer4_bullroarer.wav | Bullroarer, drums, whip, chanting |
-| L5    | layer5_narration.mp3 | Optional narration (toggleable) |
-
-> Files should be prepared with **24-bit WAV** or **high-quality MP3** (44.1 kHz or 48 kHz) for best fidelity.  
-
----
 
 ## 🧠 Psychoacoustic Notes
 
@@ -105,13 +90,7 @@ All audio files are included in `/audio_assets/`:
 - Fully modular structure to allow future expansion or modification  
 - Potential for interactive visualizations or generative elements  
 
----
 
-## 🔗 Links & Resources
-
-- [Live Demo Placeholder – GitHub Pages](#)  
-- [Oroo Nights PDF Overview](docs/oroo_nights_soundscape_overview.pdf)  
-- [Psychoacoustic Notes PDF](docs/psychoacoustic_insights_notes.pdf)  
 
 ---
 
