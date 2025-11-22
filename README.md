@@ -4,6 +4,9 @@
 **Short Description:**  
 Oroo Nights: a 5-minute interactive soundscape capturing ritual, tension, and ancestral presence through layered audio design.
 
+**Preview:**
+A preview was done using Adobe Premiere Pro for the timeline and Audition and other DAWs for the editing (this was my level of expertise as at the time the production was made) here's a link to the clip: https://drive.google.com/file/d/1QXDh9rE4yF7EdeDPSWVjbXehSs0UpctZ/view?usp=drive_link
+
 **Full Description:**  
 Oroo Night is a five-layer immersive nocturnal soundscape that captures the experience of a person sitting inside a modest bungalow at the edge of a compound surrounded by sparse gardens and small patches of vegetation, in the deep hours just past midnight. The world begins in stillness — the soft hush of late-night nature, the restrained ambience of crickets and faint wind — as the listener senses the fragile calm of a community asleep. Gradually, subtle environmental cues surface: a lone cat’s distant call, a quiet dog bark cutting through the dark, hints of movement beyond the compound. Tension grows as the forested perimeter begins to feel alive, the night pressing inward. Then the atmosphere shifts — a distant swell, a procession approaching: drums, chants, the bullroarer’s low, trembling hum alternating with brief heart-beat rests, the sharp crack of a whip, and a single traditional gunshot marking the procession’s peak as it passes along the road outside. The soundscape rises and then recedes, leaving the listener inside the bungalow with the lingering vibration of what has passed — a blend of awe, unease, reverence, and the ancient weight of tradition fading back into the midnight wind. Layer by layer, Oroo Night recreates not just an event, but the emotional arc of witnessing a cultural procession from the safety, tension, and intimacy of one’s own home.
 
@@ -94,10 +97,8 @@ Oroo Nights is a **5-minute soundscape experience** built around the progression
 
 ---
 
-## 📜 License
-
-Specify your license here (e.g., MIT, Creative Commons).  
-
+## 📜 Important Notice:
+Due to the fact that I'm not suave on Tone.js I'm currently learning Tone.js and other relevant audio development tools like C++ (specifically for audio development) and JUICE to be able to develop this beautiful masterpiece in my head and others that'll be coming down the pipeline. I've tried vibe-coding it but ultimately decided against it due to stupidity concerns, so catch y'all later! 
 ---
 
 ## 🙏 Acknowledgements
